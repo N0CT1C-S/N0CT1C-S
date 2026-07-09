@@ -1,4 +1,4 @@
-# Hi there, I'm Sigma (N0CT1C-S) 👋
+# Hi there, I'm #8&?@ (N0CT1C-S) 👋
 
 I'm a Network and Computer Engineering student passionately specializing in Cloud Engineering architecture and Cyber Security operations.
 
