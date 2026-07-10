@@ -8,8 +8,8 @@ I'm a Network and Computer Engineering student passionately specializing in Clou
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Cyber Security & Penetration Testing
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-764BA2?style=for-the-badge&logo=shieldsdotio&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00A4E4?style=for-the-badge&logo=nmap&logoColor=white) ![SQLi](https://img.shields.io/badge/SQL_Injection-Red?style=for-the-badge&logo=owasp&logoColor=white)
-* **Exploitation & Scanning**: Experienced in vulnerability assessment, active network scanning, and web application exploitation (SQLi) inside controlled lab environments.
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-764BA2?style=for-the-badge&logo=shieldsdotio&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00A4E4?style=for-the-badge&logo=nmap&logoColor=white) ![Naabu](https://img.shields.io/badge/Naabu-FF6B6B?style=for-the-badge&logo=go&logoColor=white) ![SQLi](https://img.shields.io/badge/SQL_Injection-Red?style=for-the-badge&logo=owasp&logoColor=white)
+* **Exploitation & Scanning**: Experienced in vulnerability assessment, active network scanning (Nmap/Naabu), and web application exploitation (SQLi) inside controlled lab environments.
 
 ### Cloud, Media & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white) ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white) ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4E4?style=for-the-badge&logo=jellyfin&logoColor=white)
