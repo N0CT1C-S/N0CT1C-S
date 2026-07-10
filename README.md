@@ -1,6 +1,6 @@
-# Hi there, I'm #8&?@ (N0CT1C-S) 👋
+# Hi there, I'm #8&?@ (N0CT1C-S) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-I'm a Network and Computer Engineering student passionately specializing in Cloud Engineering architecture and Cyber Security operations.
+I'm a Network and Computer Engineering (TKJ) student passionately specializing in Cloud Engineering architecture and Cyber Security operations.
 
 ## 🛠️ Tech & Hands-On Experience
 
@@ -19,12 +19,15 @@ I'm a Network and Computer Engineering student passionately specializing in Clou
 * **System Navigation**: Proficient in core Linux administration commands, process auditing, user enumeration, and file management architecture.
 * **Distros Experienced**: ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-4E9A06?style=for-the-badge&logo=parrotos&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-9FC838?style=for-the-badge&logo=linux-mint&logoColor=white)
 
-## 📜 Verified Certifications
-![Cisco](https://img.shields.io/badge/Cisco-1Y70HC?style=for-the-badge&logo=cisco&logoColor=white) ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="35" height="35" /> Verified Certifications
+* **Cisco Networking Academy**: 
+  [![Networking Basics](https://img.shields.io/badge/Networking_Basics-1Y70HC?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/certificates/?issuanceId=f5a804e3-1b6a-4f66-9142-317ede698627) [![Network Defense](https://img.shields.io/badge/Network_Defense-1Y70HC?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/certificates/?issuanceId=46ae0748-0695-4e7a-96b1-76a4307fdd38) [![Python Essentials](https://img.shields.io/badge/Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.netacad.com/certificates/?issuanceId=d580072d-c36d-40c3-8cf0-ba7867ee3af6)
+* **IBM / Credly**: 
+  [![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/0fabcc48-8ca4-4d83-baca-da250c4288db/public_url)
 
 ---
 
-## 📈 GitHub Metrics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> GitHub Metrics
 Automated profile statistics updated continuously:
 
 <p align="left">
