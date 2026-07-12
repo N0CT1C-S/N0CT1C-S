@@ -30,7 +30,12 @@ I'm a Network and Computer Engineering student passionately specializing in Clou
 Automated profile statistics updated continuously:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=N0CT1C-S&show_icons=true&theme=tokyonight&count_private=true" alt="Sigma's GitHub Stats" />
+  <!-- Stats Utama Lu -->
+  <img src="https://github-readme-stats.vercel.app/api?username=N0CT1C-S&show_icons=true&theme=tokyonight&count_private=true" alt="N0CT1C-S's GitHub Stats" />
+  
+  <br/>
+  
+  <!-- Panel Tambahan: Cuma Nampilin Total Kontribusi (Streak disembunyiin) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0CT1C-S&theme=tokyonight&hide_border=false&widgets=total-contributions" alt="N0CT1C-S's Total Contributions" />
 </p>
-
 
