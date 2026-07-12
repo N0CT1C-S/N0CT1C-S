@@ -33,6 +33,4 @@ Automated profile statistics updated continuously:
   <img src="https://github-readme-stats.vercel.app/api?username=N0CT1C-S&show_icons=true&theme=tokyonight&count_private=true" alt="Sigma's GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0CT1C-S&theme=tokyonight" alt="Sigma's Streak Stats" />
-</p>
+
